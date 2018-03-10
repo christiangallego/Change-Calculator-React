@@ -2,14 +2,14 @@
 
 ## Project Requirements
 
-Given an express server, npm modules, and configuration files /webpack.config and /babelrc:
+Given an express server, npm modules, and configuration files like /webpack.config and /babelrc:
 
-* Convert visual wireframe to JSX markup in app.jsx and connect React app to index.jsx
-* Add Bootsrap
+* Convert visual wireframe to JSX markup in app.jsx and connect React application to index.jsx
+* Add Bootstrap
 * Setup state management
 * Setup event binding for button elements
 * Setup calculator logic
-* Update view state based on calculation results and show valyes in the DOM
+* Update view state based on calculation results and show values in the DOM
 
 ### Installing
 

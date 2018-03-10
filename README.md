@@ -1,6 +1,16 @@
 ## Change Calculator in React
 
-## Getting Started
+## Project Requirements
+
+Given an express server, npm modules, and configuration files /webpack.config and /babelrc:
+
+* Convert visual wireframe to JSX markup in app.jsx and connect React app to index.jsx
+* Add Bootsrap
+* Setup state management
+* Setup event binding for button elements
+* Include calculator logic
+* Update view state based on calculation results
+* Show state values in the DOM via JSX
 
 ### Installing
 
@@ -12,4 +22,8 @@ Then download the project dependencies by running this command in your terminal:
 
 `npm install`
 
-See it live on: https://cg-change-calculator-project.herokuapp.com/
+To run the application in your web broswer, run the following command:
+
+`npm start`
+
+Also, See it live on: https://cg-change-calculator-project.herokuapp.com/

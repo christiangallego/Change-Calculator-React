@@ -1,4 +1,4 @@
-## Change Calculator in React
+# Change Calculator in React
 
 ## Project Requirements
 
@@ -8,9 +8,8 @@ Given an express server, npm modules, and configuration files /webpack.config an
 * Add Bootsrap
 * Setup state management
 * Setup event binding for button elements
-* Include calculator logic
-* Update view state based on calculation results
-* Show state values in the DOM via JSX
+* Setup calculator logic
+* Update view state based on calculation results and show valyes in the DOM
 
 ### Installing
 
